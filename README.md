@@ -1,2 +1,2 @@
 # mybase
-meizp
+meizp@github
